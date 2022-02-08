@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TabApplication</string>
+    <string name="about">Бондаренко Иванов</string>
+    <string-array name="students_array">
+        <item>Адова Анна</item>
+        <item>Александрова Ангелина</item>
+        <item>Бауэр Егор</item>
+        <item>Бондаренко Антон</item>
+        <item>Давыдков Никита</item>
+        <item>Зырянов Константин</item>
+        <item>Иванов Артем</item>
+        <item>Косарева Екатерина</item>
+        <item>Костин Кирилл</item>
+        <item>Кульбезекова Кристина</item>
+    </string-array>
+</resources>
